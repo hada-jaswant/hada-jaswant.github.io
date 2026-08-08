@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(git fetch *)",
-      "Bash(git ls-tree *)"
+      "Bash(git ls-tree *)",
+      "Bash(python3 -c ' *)",
+      "Bash(git commit -m 'Update phone number to +91 9425301101 *)"
     ]
   }
 }
