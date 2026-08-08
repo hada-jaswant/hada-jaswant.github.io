@@ -4,7 +4,9 @@
       "Bash(git fetch *)",
       "Bash(git ls-tree *)",
       "Bash(python3 -c ' *)",
-      "Bash(git commit -m 'Update phone number to +91 9425301101 *)"
+      "Bash(git commit -m 'Update phone number to +91 9425301101 *)",
+      "Bash(git commit -m 'Ignore local Wikipedia draft file *)",
+      "Bash(git commit -m 'Add SEO: sitemap, robots.txt, canonical, Open Graph, Person schema *)"
     ]
   }
 }
